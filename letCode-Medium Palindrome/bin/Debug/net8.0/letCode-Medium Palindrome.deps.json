@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "letCode-Medium Palindrome/1.0.0": {
+        "runtime": {
+          "letCode-Medium Palindrome.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "letCode-Medium Palindrome/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

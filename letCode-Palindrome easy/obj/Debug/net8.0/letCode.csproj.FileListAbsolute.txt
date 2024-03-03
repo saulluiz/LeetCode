@@ -1,0 +1,14 @@
+C:\Users\saulo\OneDrive\Área de Trabalho\letCode\bin\Debug\net8.0\letCode.exe
+C:\Users\saulo\OneDrive\Área de Trabalho\letCode\bin\Debug\net8.0\letCode.deps.json
+C:\Users\saulo\OneDrive\Área de Trabalho\letCode\bin\Debug\net8.0\letCode.runtimeconfig.json
+C:\Users\saulo\OneDrive\Área de Trabalho\letCode\bin\Debug\net8.0\letCode.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\letCode\bin\Debug\net8.0\letCode.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\letCode\obj\Debug\net8.0\letCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulo\OneDrive\Área de Trabalho\letCode\obj\Debug\net8.0\letCode.AssemblyInfoInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\letCode\obj\Debug\net8.0\letCode.AssemblyInfo.cs
+C:\Users\saulo\OneDrive\Área de Trabalho\letCode\obj\Debug\net8.0\letCode.csproj.CoreCompileInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\letCode\obj\Debug\net8.0\letCode.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\letCode\obj\Debug\net8.0\refint\letCode.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\letCode\obj\Debug\net8.0\letCode.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\letCode\obj\Debug\net8.0\letCode.genruntimeconfig.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\letCode\obj\Debug\net8.0\ref\letCode.dll

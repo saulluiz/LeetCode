@@ -1,0 +1,14 @@
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\dividedd by integers\bin\Debug\net8.0\dividedd by integers.exe
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\dividedd by integers\bin\Debug\net8.0\dividedd by integers.deps.json
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\dividedd by integers\bin\Debug\net8.0\dividedd by integers.runtimeconfig.json
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\dividedd by integers\bin\Debug\net8.0\dividedd by integers.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\dividedd by integers\bin\Debug\net8.0\dividedd by integers.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\dividedd by integers\obj\Debug\net8.0\dividedd by integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\dividedd by integers\obj\Debug\net8.0\dividedd by integers.AssemblyInfoInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\dividedd by integers\obj\Debug\net8.0\dividedd by integers.AssemblyInfo.cs
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\dividedd by integers\obj\Debug\net8.0\dividedd by integers.csproj.CoreCompileInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\dividedd by integers\obj\Debug\net8.0\dividedd by integers.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\dividedd by integers\obj\Debug\net8.0\refint\dividedd by integers.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\dividedd by integers\obj\Debug\net8.0\dividedd by integers.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\dividedd by integers\obj\Debug\net8.0\dividedd by integers.genruntimeconfig.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\dividedd by integers\obj\Debug\net8.0\ref\dividedd by integers.dll

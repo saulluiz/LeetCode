@@ -1,0 +1,14 @@
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\letCode-Medium Palindrome\bin\Debug\net8.0\letCode-Medium Palindrome.exe
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\letCode-Medium Palindrome\bin\Debug\net8.0\letCode-Medium Palindrome.deps.json
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\letCode-Medium Palindrome\bin\Debug\net8.0\letCode-Medium Palindrome.runtimeconfig.json
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\letCode-Medium Palindrome\bin\Debug\net8.0\letCode-Medium Palindrome.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\letCode-Medium Palindrome\bin\Debug\net8.0\letCode-Medium Palindrome.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\letCode-Medium Palindrome\obj\Debug\net8.0\letCode-Medium Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\letCode-Medium Palindrome\obj\Debug\net8.0\letCode-Medium Palindrome.AssemblyInfoInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\letCode-Medium Palindrome\obj\Debug\net8.0\letCode-Medium Palindrome.AssemblyInfo.cs
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\letCode-Medium Palindrome\obj\Debug\net8.0\letCode-Medium Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\letCode-Medium Palindrome\obj\Debug\net8.0\letCode-Medium Palindrome.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\letCode-Medium Palindrome\obj\Debug\net8.0\refint\letCode-Medium Palindrome.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\letCode-Medium Palindrome\obj\Debug\net8.0\letCode-Medium Palindrome.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\letCode-Medium Palindrome\obj\Debug\net8.0\letCode-Medium Palindrome.genruntimeconfig.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\LetCode\letCode-Medium Palindrome\obj\Debug\net8.0\ref\letCode-Medium Palindrome.dll
